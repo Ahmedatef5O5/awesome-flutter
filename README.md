@@ -435,6 +435,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [MLKit](https://github.com/azihsoyn/flutter_mlkit) [388⭐] - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn).
 - [m2cgen](https://github.com/BayesWitnesses/m2cgen) [2915⭐] - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses).
+- [Google Generative AI Dart](https://github.com/google-gemini/generative-ai-dart) [3674⭐] - Official Dart/Flutter SDK for Google AI (Gemini) supporting text generation, embeddings, multimodal input/output, and AI-powered features by Google.
+
 
 ### Vision
 
