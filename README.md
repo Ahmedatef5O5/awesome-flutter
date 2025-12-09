@@ -186,6 +186,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flyer Chat](https://github.com/flyerhq/flutter_chat_ui) [2070⭐] - Community-driven chat UI implementation by the [Flyer Chat team](https://github.com/flyerhq).
 - [Smooth Page Indicator](https://github.com/Milad-Akarie/smooth_page_indicator) [1383⭐] - Customizable animated page indicator with a set of built-in effects. [Milad Akarie](https://github.com/Milad-Akarie).
 - [Super Editor](https://github.com/superlistapp/super_editor/) [?⭐] - Advanced toolkit for building document editors and readers by [Flutter Bounty Hunters](https://flutterbountyhunters.com).
+- [Figma Squircle](https://github.com/best-flutter/figma_squircle) [382⭐] - Figma-style superellipse shapes for building smooth UI components.
+- [Figma Export](https://github.com/aloisdeniel/figma_export) [250⭐] - Export Figma design tokens and components directly into Flutter code.
+- [XD to Flutter](https://github.com/AdobeXD/xd-to-flutter-plugin) - Adobe XD plugin to export UI layouts directly into Flutter widgets.
+
 
 #### Libraries
 
